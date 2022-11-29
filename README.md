@@ -3,7 +3,7 @@ Ala-Too University Web Technologies 1 Final Project
 
 
 ## Final Assignment
-All details about the task you can find in the file 'final_task.pdf'.
+All details about the task you can find in the file '[final_task.pdf](final_task.pdf)'.
 
 Make the GitHub repository public, and share the link.
 
